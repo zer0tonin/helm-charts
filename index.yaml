@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   mikochi:
   - apiVersion: v2
+    appVersion: 1.5.1
+    created: "2024-06-19T15:49:31.460122+02:00"
+    description: A helm chart for the Mikochi file manager
+    digest: a321687328bb06b556871d783fcfcb2e029a80b68a3d1fffd89fe1fd116a31c9
+    name: mikochi
+    type: application
+    urls:
+    - mikochi-1.5.1.tgz
+    version: 1.5.1
+  - apiVersion: v2
     appVersion: 1.5.0
-    created: "2024-05-28T21:22:09.764536+02:00"
+    created: "2024-06-19T15:49:31.459875+02:00"
     description: A helm chart for the Mikochi file manager
     digest: f14a94eb6a59684b52713c4f33f5a4858ced17fc058d49db8d4f271823c05e0e
     name: mikochi
@@ -13,7 +23,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 1.4.6
-    created: "2024-05-28T21:22:09.764291+02:00"
+    created: "2024-06-19T15:49:31.459494+02:00"
     description: A helm chart for the Mikochi file manager
     digest: 5fcec8fea7ea3856a229acdfdb719eacea6dcbda0de9be5c07a3ac0b5eded821
     name: mikochi
@@ -23,7 +33,7 @@ entries:
     version: 1.4.6
   - apiVersion: v2
     appVersion: 1.4.5
-    created: "2024-05-28T21:22:09.763921+02:00"
+    created: "2024-06-19T15:49:31.459108+02:00"
     description: A helm chart for the Mikochi file manager
     digest: 399b14054d381b0a8ea85c37c260300004cc149120d7315a4185a40327c1660b
     name: mikochi
@@ -33,7 +43,7 @@ entries:
     version: 1.4.5
   - apiVersion: v2
     appVersion: 1.4.4
-    created: "2024-05-28T21:22:09.76356+02:00"
+    created: "2024-06-19T15:49:31.45871+02:00"
     description: A helm chart for the Mikochi file manager
     digest: 33868ef17cb46480bbd70b83d0aa3274e5b0593f42cfdc95e87df28f3efe68c4
     name: mikochi
@@ -43,7 +53,7 @@ entries:
     version: 1.4.4
   - apiVersion: v2
     appVersion: 1.4.3
-    created: "2024-05-28T21:22:09.763187+02:00"
+    created: "2024-06-19T15:49:31.458301+02:00"
     description: A helm chart for the Mikochi file manager
     digest: 5be3b579a67500d0e8c10aaa0b63f19e47362fa5efe6abed2b79521b45e88ba9
     name: mikochi
@@ -53,7 +63,7 @@ entries:
     version: 1.4.3
   - apiVersion: v2
     appVersion: 1.3.1
-    created: "2024-05-28T21:22:09.762802+02:00"
+    created: "2024-06-19T15:49:31.4579+02:00"
     description: A helm chart for the Mikochi file manager
     digest: 9be2225e8f4708c1095fc79a7fb8c2bc687169f3640fcaffeb489e9f8750fb16
     name: mikochi
@@ -63,7 +73,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 1.2.6
-    created: "2024-05-28T21:22:09.762395+02:00"
+    created: "2024-06-19T15:49:31.45754+02:00"
     description: A helm chart for the Mikochi file manager
     digest: fb3d2e9e2cd54591eae84940b2da69b6a14ce946162230c36c55a6ecaee4e25b
     name: mikochi
@@ -73,7 +83,7 @@ entries:
     version: 1.2.6
   - apiVersion: v2
     appVersion: 1.2.5
-    created: "2024-05-28T21:22:09.761947+02:00"
+    created: "2024-06-19T15:49:31.457158+02:00"
     description: A helm chart for the Mikochi file manager
     digest: 73690d456db29b30bfefe67d5ef28a5f6e33335a343291bb1f28d4ad4ea045d4
     name: mikochi
@@ -83,7 +93,7 @@ entries:
     version: 1.2.5
   - apiVersion: v2
     appVersion: 1.2.4
-    created: "2024-05-28T21:22:09.761543+02:00"
+    created: "2024-06-19T15:49:31.456771+02:00"
     description: A helm chart for the Mikochi file manager
     digest: f76aa53f08b04019f873ca8907676b12a4440482b304e24ff8356d6b600fed4b
     name: mikochi
@@ -93,7 +103,7 @@ entries:
     version: 1.2.4
   - apiVersion: v2
     appVersion: 1.2.3
-    created: "2024-05-28T21:22:09.761102+02:00"
+    created: "2024-06-19T15:49:31.456343+02:00"
     description: A helm chart for the Mikochi file manager
     digest: 05ad1704e556301fb88b72d2f3259b532ff68a6d359936f78addd54627acb822
     name: mikochi
@@ -103,7 +113,7 @@ entries:
     version: 1.2.3
   - apiVersion: v2
     appVersion: 1.2.2
-    created: "2024-05-28T21:22:09.760681+02:00"
+    created: "2024-06-19T15:49:31.455889+02:00"
     description: A helm chart for the Mikochi file manager
     digest: 55bf96e82c0dde90aa7c00002e7b76173b4d7671e6f228b83f6086455ccc5d04
     name: mikochi
@@ -113,7 +123,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-05-28T21:22:09.760219+02:00"
+    created: "2024-06-19T15:49:31.45543+02:00"
     description: A helm chart for the Mikochi file manager
     digest: 841eaad4fcb910d72c58e34074bcb866a313fe727e6c83fb4efa14f06bee694c
     name: mikochi
@@ -123,7 +133,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-05-28T21:22:09.759732+02:00"
+    created: "2024-06-19T15:49:31.454971+02:00"
     description: A helm chart for the Mikochi file manager
     digest: 81fff08e560e6317249b87e71629e86d7f1ff37f4fd26eb26d63c658ce30c93b
     name: mikochi
@@ -131,4 +141,4 @@ entries:
     urls:
     - mikochi-1.2.0.tgz
     version: 1.2.0
-generated: "2024-05-28T21:22:09.757653+02:00"
+generated: "2024-06-19T15:49:31.454399+02:00"
